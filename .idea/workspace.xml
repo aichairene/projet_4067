@@ -4,18 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3810d96-2d6d-4a07-8431-c423b5db0ecc" name="Changes" comment="factoryMethodeNew">
-      <change afterPath="$PROJECT_DIR$/src/abstract_factory/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/IProduitFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_factory/IProduitFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/ProduitA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_factory/ProduitA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/ProduitA1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_factory/ProduitA1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/ProduitA2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_factory/ProduitA2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/ProduitB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_factory/ProduitB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/ProduitB1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_factory/ProduitB1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/ProduitB2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_factory/ProduitB2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/ProduitFactory1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_factory/ProduitFactory1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/ProduitFactory2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_factory/ProduitFactory2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/main.java" beforeDir="false" />
+    <list default="true" id="d3810d96-2d6d-4a07-8431-c423b5db0ecc" name="Changes" comment="abstractFactory">
+      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/IProduitFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/ProduitA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/ProduitA1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/ProduitA2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/ProduitA3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/ProduitB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/ProduitB1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/ProduitB2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/ProduitB3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/ProduitFactory1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/ProduitFactory2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/ProduitFactory3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +53,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "/home/kimerly/Bureau/Constructions/Patrons/src/factory_MethodeNew",
+    "last_opened_file_path": "/home/kimerly/Bureau/Constructions/Patrons/src/abstract_factoryNew",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -61,6 +63,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/abstract_factoryNew" />
       <recent name="$PROJECT_DIR$/src/factory_MethodeNew" />
       <recent name="$PROJECT_DIR$/src/factoryNew" />
       <recent name="$PROJECT_DIR$/src" />
@@ -74,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697109280504</updated>
-      <workItem from="1697109284736" duration="17156000" />
+      <workItem from="1697109284736" duration="19003000" />
     </task>
     <task id="LOCAL-00001" summary="factory">
       <created>1697110147846</created>
@@ -111,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697125486562</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="abstractFactory">
+      <created>1697134520171</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697134520171</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +143,7 @@
     <MESSAGE value="factoryNew" />
     <MESSAGE value="factoryMethode" />
     <MESSAGE value="factoryMethodeNew" />
-    <option name="LAST_COMMIT_MESSAGE" value="factoryMethodeNew" />
+    <MESSAGE value="abstractFactory" />
+    <option name="LAST_COMMIT_MESSAGE" value="abstractFactory" />
   </component>
 </project>
