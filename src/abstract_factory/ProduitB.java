@@ -1,4 +1,5 @@
 package abstract_factory;
 
-public class ProduitB {
+public abstract class ProduitB {
+    public abstract void  methodeB();
 }
