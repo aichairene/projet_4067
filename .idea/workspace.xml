@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3810d96-2d6d-4a07-8431-c423b5db0ecc" name="Changes" comment="abstractFactory">
-      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/IProduitFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/ProduitA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/ProduitA1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/ProduitA2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/ProduitA3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/ProduitB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/ProduitB1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/ProduitB2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/ProduitB3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/ProduitFactory1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/ProduitFactory2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factoryNew/abstract_factory/ProduitFactory3.java" afterDir="false" />
+    <list default="true" id="d3810d96-2d6d-4a07-8431-c423b5db0ecc" name="Changes" comment="abstractFactoryNew">
+      <change afterPath="$PROJECT_DIR$/src/construction/Arithmetique/Arithmetique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construction/Arithmetique/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697109280504</updated>
-      <workItem from="1697109284736" duration="19003000" />
+      <workItem from="1697109284736" duration="21780000" />
     </task>
     <task id="LOCAL-00001" summary="factory">
       <created>1697110147846</created>
@@ -121,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697134520171</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="abstractFactoryNew">
+      <created>1697136373926</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697136373926</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +140,7 @@
     <MESSAGE value="factoryMethode" />
     <MESSAGE value="factoryMethodeNew" />
     <MESSAGE value="abstractFactory" />
-    <option name="LAST_COMMIT_MESSAGE" value="abstractFactory" />
+    <MESSAGE value="abstractFactoryNew" />
+    <option name="LAST_COMMIT_MESSAGE" value="abstractFactoryNew" />
   </component>
 </project>
