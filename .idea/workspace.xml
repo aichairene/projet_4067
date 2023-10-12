@@ -4,13 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3810d96-2d6d-4a07-8431-c423b5db0ecc" name="Changes" comment="factoryNew">
-      <change afterPath="$PROJECT_DIR$/src/factory_Methode/ProduitA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory_Methode/ProduitA1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory_Methode/ProduitA2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory_Methode/ProduitFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory_Methode/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d3810d96-2d6d-4a07-8431-c423b5db0ecc" name="Changes" comment="factoryMethode">
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/IProduitFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/ProduitA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/ProduitA1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/ProduitA2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/ProduitB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/ProduitB1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/ProduitB2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/ProduitFactory1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/ProduitFactory2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_factory/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory_MethodeNew/factory_Methode/ProduitA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory_MethodeNew/factory_Methode/ProduitA1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory_MethodeNew/factory_Methode/ProduitA2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory_MethodeNew/factory_Methode/ProduitA3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory_MethodeNew/factory_Methode/ProduitFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory_MethodeNew/factory_Methode/client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +30,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -45,7 +56,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "/home/kimerly/Bureau/Constructions/Patrons/src/factoryNew",
+    "last_opened_file_path": "/home/kimerly/Bureau/Constructions/Patrons/src/factory_MethodeNew",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -55,6 +66,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/factory_MethodeNew" />
       <recent name="$PROJECT_DIR$/src/factoryNew" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
@@ -67,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697109280504</updated>
-      <workItem from="1697109284736" duration="10577000" />
+      <workItem from="1697109284736" duration="12729000" />
     </task>
     <task id="LOCAL-00001" summary="factory">
       <created>1697110147846</created>
@@ -90,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697115287821</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="factoryMethode">
+      <created>1697123585212</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697123585213</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +129,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="factory" />
     <MESSAGE value="factoryNew" />
-    <option name="LAST_COMMIT_MESSAGE" value="factoryNew" />
+    <MESSAGE value="factoryMethode" />
+    <option name="LAST_COMMIT_MESSAGE" value="factoryMethode" />
   </component>
 </project>
