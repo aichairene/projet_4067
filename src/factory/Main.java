@@ -13,5 +13,6 @@ public class Main {
         System.out.println("utilisation de la seconde fabrique");
         produitA = produitFactory2.getProduitA();
         produitA.methodeA();
+
     }
     }
