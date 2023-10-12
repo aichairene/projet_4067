@@ -4,21 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3810d96-2d6d-4a07-8431-c423b5db0ecc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patrons.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/ProduitA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/ProduitA1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/ProduitA2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/ProduitFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/ProduitFactory1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/ProduitFactory2.java" afterDir="false" />
+    <list default="true" id="d3810d96-2d6d-4a07-8431-c423b5db0ecc" name="Changes" comment="factory">
+      <change afterPath="$PROJECT_DIR$/src/factoryNew/factory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryNew/factory/ProduitA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryNew/factory/ProduitA1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryNew/factory/ProduitA2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryNew/factory/ProduitA3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryNew/factory/ProduitFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryNew/factory/ProduitFactory1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryNew/factory/ProduitFactory2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryNew/factory/ProduitFactory3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +49,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "/home/kimerly/Bureau/Constructions/Patrons/src/factoryNew",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,6 +57,12 @@
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/factoryNew" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,8 +71,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697109280504</updated>
-      <workItem from="1697109284736" duration="763000" />
+      <workItem from="1697109284736" duration="5503000" />
     </task>
+    <task id="LOCAL-00001" summary="factory">
+      <created>1697110147846</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697110147846</updated>
+    </task>
+    <task id="LOCAL-00002" summary="factory">
+      <created>1697114133929</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697114133929</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,5 +103,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="factory" />
+    <option name="LAST_COMMIT_MESSAGE" value="factory" />
   </component>
 </project>
