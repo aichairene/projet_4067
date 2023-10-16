@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3810d96-2d6d-4a07-8431-c423b5db0ecc" name="Changes" comment="abstractFactoryNew">
-      <change afterPath="$PROJECT_DIR$/src/construction/ArithmetiqueNew/Arithmetique/Arithmetique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construction/ArithmetiqueNew/Arithmetique/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/Directeur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/MonteurPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/MonteurPizzaPiquante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/MonteurPizzaReine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builderNew/builder/Directeur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builderNew/builder/MonteurPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builderNew/builder/MonteurPizzaPiquante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builderNew/builder/MonteurPizzaReine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builderNew/builder/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +52,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "/home/kimerly/Bureau/Constructions/Patrons/src/construction/ArithmetiqueNew",
+    "last_opened_file_path": "/home/kimerly/Bureau/Constructions/Patrons/src/builderNew",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,11 +62,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/builderNew" />
       <recent name="$PROJECT_DIR$/src/construction/ArithmetiqueNew" />
       <recent name="$PROJECT_DIR$/src/abstract_factoryNew" />
       <recent name="$PROJECT_DIR$/src/factory_MethodeNew" />
       <recent name="$PROJECT_DIR$/src/factoryNew" />
-      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -68,6 +78,8 @@
       <option name="presentableId" value="Default" />
       <updated>1697109280504</updated>
       <workItem from="1697109284736" duration="22416000" />
+      <workItem from="1697283829029" duration="2769000" />
+      <workItem from="1697454808909" duration="1120000" />
     </task>
     <task id="LOCAL-00001" summary="factory">
       <created>1697110147846</created>
